@@ -45,7 +45,8 @@ cd jwt-login
 ### 2. Instale as dependências
 
 ```bash
-npm install
+npm init -y
+npm install express pg sequelize bcryptjs jsonwebtoken dotenv
 ```
 
 ### 3. Crie o banco de dados PostgreSQL
