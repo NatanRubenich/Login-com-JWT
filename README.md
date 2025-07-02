@@ -42,7 +42,7 @@ git clone https://github.com/seu-usuario/jwt-login.git
 cd jwt-login
 ```
 
-### 2. Instale as dependências
+### 2. Instale as dependências (caso não clone com o node_modules)
 
 ```bash
 npm init -y
